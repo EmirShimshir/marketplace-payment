@@ -3,7 +3,7 @@ package paymentMock
 import (
 	"context"
 	"fmt"
-	"github.com/EmirShimshir/marketplace-domain/domain"
+	"github.com/EmirShimshir/marketplace-core/domain"
 	"net/url"
 	"strconv"
 	"strings"
