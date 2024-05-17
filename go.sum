@@ -1,0 +1,6 @@
+github.com/EmirShimshir/marketplace-domain v0.0.0-20240517151020-6fd8bd582f8d h1:SKQAGP3S9zlHHSEzxVlyBz3qW/+3yKR3pRsBIVVeXY4=
+github.com/EmirShimshir/marketplace-domain v0.0.0-20240517151020-6fd8bd582f8d/go.mod h1:nl3lpdYzC1oNZRGEY96Nx3c5UT8e47LN7SNV3f5MTF4=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/guregu/null v4.0.0+incompatible h1:4zw0ckM7ECd6FNNddc3Fu4aty9nTlpkkzH7dPn4/4Gw=
+github.com/guregu/null v4.0.0+incompatible/go.mod h1:ePGpQaN9cw0tj45IR5E5ehMvsFlLlQZAkkOXZurJ3NM=
